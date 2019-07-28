@@ -1,0 +1,23 @@
+h1{
+    font-size: 20px,
+    color: blue;
+  }
+
+  body {
+    background: #eeeeee;
+    font-family: Meiryo;
+  }
+
+  div {
+    background: #ffffff;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #cccccc;
+    margin: 30px auto;
+  }
+
+  p {
+    background: #ffffff;
+  }
+  
